@@ -1,7 +1,7 @@
 
 
 # Bucket of Luck | C
-# Duration: [Jan 2022] - [March 2022]
+# Duration: [Febuary 2022] - [March 2022]
 
 # Overview
 Bucket of Luck is an enthralling console-based dice game crafted meticulously in C. The game simulates a betting environment where players place wagers on the outcomes of dice rolls, offering a perfect blend of strategy, luck, and anticipation. Designed to deliver a dynamic and interactive gaming experience, Bucket of Luck stands out for its robust game logic, animated text-based interfaces, and an engaging gameplay narrative.
