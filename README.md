@@ -1,4 +1,4 @@
-# Bucket of Luck | C
+# Bucket of Luck
 
 ## Duration: February 2022 - March 2022
 
